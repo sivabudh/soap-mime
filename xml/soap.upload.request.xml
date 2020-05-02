@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <soapenv:Body>
+  <ns1:IMGsd soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="urn:WSLim5APIntf-IWSLim5AP">
+   <xctxt xsi:type="xsd:string">SendOK</xctxt>
+   <xattach href="cid:2EDBFFC731158C37F50844E69C6ECD3C" xsi:type="ns2:DataHandler" xmlns:ns2="http://xml.apache.org/xml-soap"/>
+  </ns1:IMGsd>
+ </soapenv:Body>
+</soapenv:Envelope>
